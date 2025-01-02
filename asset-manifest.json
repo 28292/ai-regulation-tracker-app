@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai-regulation-tracker-app/static/css/main.2ce1a10e.css",
+    "main.js": "/ai-regulation-tracker-app/static/js/main.f9affd17.js",
+    "index.html": "/ai-regulation-tracker-app/index.html",
+    "main.2ce1a10e.css.map": "/ai-regulation-tracker-app/static/css/main.2ce1a10e.css.map",
+    "main.f9affd17.js.map": "/ai-regulation-tracker-app/static/js/main.f9affd17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ce1a10e.css",
+    "static/js/main.f9affd17.js"
+  ]
+}
